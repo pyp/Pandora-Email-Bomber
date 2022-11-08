@@ -45,5 +45,5 @@
 ### Extra
 * doozle#3339
 * made by doozle // i am the only developer for this tool.
-* i will release the source for free if this hits 250 stars.
+* i will release the source for free if this hits 150 stars.
 * there is an authentication system within the tool, so if you want to purchase this you can easily market.
